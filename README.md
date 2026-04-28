@@ -319,6 +319,4 @@ The current architecture has one known limitation: **it depends on BM25 finding 
 
 This research was conducted at the **Department of Computer Science and Engineering, East West University, Dhaka-1212, Bangladesh**. The dataset was constructed from the official EWU web portals and academic bulletins for the 2026 academic year.
 
----
 
-<p align="center">Made with ❤️ at East West University · Published at IEEE QPAIN 2026</p>
