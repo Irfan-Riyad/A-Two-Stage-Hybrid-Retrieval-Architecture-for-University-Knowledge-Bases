@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License"/>
 </p>
 
-> **Published at:** 2026 IEEE 2nd International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN) — 16–18 April 2026, Chittagong, Bangladesh
+
 
 ---
 
