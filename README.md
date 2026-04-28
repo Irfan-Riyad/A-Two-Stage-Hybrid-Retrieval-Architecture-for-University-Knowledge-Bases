@@ -1,8 +1,6 @@
 # 🚀 Teleport-Walk: A Two-Stage Hybrid Retrieval Architecture for University Knowledge Bases
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Published-brightgreen" alt="Status"/>
-  <img src="https://img.shields.io/badge/Conference-IEEE%20QPAIN%202026-blue" alt="Conference"/>
   <img src="https://img.shields.io/badge/Institution-East%20West%20University-orange" alt="Institution"/>
   <img src="https://img.shields.io/badge/Python-3.8%2B-yellow" alt="Python"/>
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License"/>
